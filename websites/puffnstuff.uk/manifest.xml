@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+<routing>
+<domain>puffnstuff.uk</domain>
+<routes>
+<route path="/" cacheable="true" instructions="homepage">Index</route>
+</routes>
+</routing>
+<global>
+<header_css>theme.css</header_css>
+<header_js>theme.js</header_js>
+</global>
+</configuration>
