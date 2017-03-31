@@ -3,7 +3,7 @@
 <routing>
 <domain>puffnstuff.uk</domain>
 <routes>
-<route path="/" cacheable="true" instructions="homepage">Index</route>
+<route path="/" cacheable="true" instructions="index">Index</route>
 </routes>
 </routing>
 <global>
